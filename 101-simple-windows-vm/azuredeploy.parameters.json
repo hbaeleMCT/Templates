@@ -3,16 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "newStorageAccountName": {
-      "value": "myStorageAccount"
+      "value": "hbdemarm2802"
     },
     "adminUsername": {
-      "value": "admin123"
+      "value": "MyAdmin"
     },
     "adminPassword": {
-      "value": "ADmin123_!"
+      "value": "Azerty123456"
     },
     "dnsNameForPublicIP": {
-      "value": "myDnsName"
+      "value": "hb2802"
+    },
+    "location": {
+      "value": "West europe"
+    },
+    "sizeDataDiskinGB": {
+      "value": "20"
     }
   }
 }
