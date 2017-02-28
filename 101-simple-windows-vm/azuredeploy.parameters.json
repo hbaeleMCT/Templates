@@ -3,21 +3,21 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "newStorageAccountName": {
-      "value": "hbdemarm2802"
+      "value": "dmgstore1"
     },
     "adminUsername": {
-      "value": "MyAdmin"
+      "value": "admin123"
     },
     "adminPassword": {
-      "value": "Azerty123456"
+      "value": "Passw0rd!"
     },
     "dnsNameForPublicIP": {
-      "value": "hb2802"
+      "value": "dmg6685"
     },
     "location": {
-      "value": "West europe"
+      "value": "West US"
     },
-    "sizeDataDiskinGB": {
+    "sizeOfDiskInGB": {
       "value": "20"
     }
   }
